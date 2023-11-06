@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.alexblanco.propinas"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.alexblanco.propinas"
